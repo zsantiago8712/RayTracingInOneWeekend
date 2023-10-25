@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/Users/randymarsh/Developer/RayTracingInOneWeekend/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/randymarsh/Developer/RayTracingInOneWeekend/RayTracing/include -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -o CMakeFiles/HasbuRayTracing.dir/RayTracing/main.cpp.o -c /Users/randymarsh/Developer/RayTracingInOneWeekend/RayTracing/main.cpp",
+  "file": "/Users/randymarsh/Developer/RayTracingInOneWeekend/RayTracing/main.cpp",
+  "output": "CMakeFiles/HasbuRayTracing.dir/RayTracing/main.cpp.o"
+},
+{
+  "directory": "/Users/randymarsh/Developer/RayTracingInOneWeekend/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/randymarsh/Developer/RayTracingInOneWeekend/RayTracing/include -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -o CMakeFiles/HasbuRayTracing.dir/RayTracing/src/ImageManager.cpp.o -c /Users/randymarsh/Developer/RayTracingInOneWeekend/RayTracing/src/ImageManager.cpp",
+  "file": "/Users/randymarsh/Developer/RayTracingInOneWeekend/RayTracing/src/ImageManager.cpp",
+  "output": "CMakeFiles/HasbuRayTracing.dir/RayTracing/src/ImageManager.cpp.o"
+},
+{
+  "directory": "/Users/randymarsh/Developer/RayTracingInOneWeekend/cmake-build-debug/RayTracing",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/randymarsh/Developer/RayTracingInOneWeekend/RayTracing/include -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -o CMakeFiles/RayTracingLib.dir/src/ImageManager.cpp.o -c /Users/randymarsh/Developer/RayTracingInOneWeekend/RayTracing/src/ImageManager.cpp",
+  "file": "/Users/randymarsh/Developer/RayTracingInOneWeekend/RayTracing/src/ImageManager.cpp",
+  "output": "RayTracing/CMakeFiles/RayTracingLib.dir/src/ImageManager.cpp.o"
+}
+]

@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+
+/.cache
+/cmake-build-debug
+
+compiled_commands.json
